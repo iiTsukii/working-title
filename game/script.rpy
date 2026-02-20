@@ -23,7 +23,7 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene bg room
+    scene bg hallway
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
@@ -33,9 +33,9 @@ label start:
 
     # These display lines of dialogue.
 
-    cr "You've created a new Ren'Py game."
+    cr "This is a work in progress."
 
-    s "Once you add a story, pictures, and music, you can release it to the world!"
+    cr "So fuck off shithead"
 
     # This ends the game.
     # I super hope this works
