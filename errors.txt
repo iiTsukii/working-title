@@ -2,13 +2,17 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 291: expected statement.
-    Label notnormalclay:
-                       ^
+File "game/script.rpy", line 299: end of line expected.
+    "Christine" "Oh yeah! That would’ve been funny but cause you explained it it’s not.
+                                                                                          ^
 
-File "game/script.rpy", line 381: expected statement.
-    Jump lunch:
+File "game/script.rpy", line 343: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    Menu:
+    ^
+
+File "game/script.rpy", line 381: end of line expected.
+    jump lunch:
               ^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Mon Mar  9 17:16:35 2026
+Mon Mar  9 17:17:16 2026

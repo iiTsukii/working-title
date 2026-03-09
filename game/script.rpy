@@ -296,7 +296,7 @@ label notnormalclay:
 
     "Schwa" "... My Penis."
 
-    "Christine" "Oh yeah! That would’ve been funny but cause you explained it it’s not.
+    "Christine" "Oh yeah! That would’ve been funny but cause you explained it it’s not."
 
     "Dammit she’s right."
 
@@ -340,12 +340,13 @@ label continueart:
 
     "Or maybe this is like undertale where I gotta do all the good stuff+"
 
-        Menu:
-                "Take the phone":
-                    jump phonetaken
+    menu:
+        
+        "Take the phone":
+            jump phonetaken
 
-                "Don’t take the phone":
-                    jump phoneleft
+        "Don’t take the phone":
+            jump phoneleft
 
 label phonetaken:
 
@@ -378,7 +379,7 @@ label phoneleft:
 
     "Christine" "That's the bell, it's time for lunch!"
 
-    jump lunch:
+    jump lunch
 
 label lunch:
 
