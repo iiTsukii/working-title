@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 76: end of line expected.
-    "???" "Hey, are you alright?"  - drawing/polaroid 1
-                                   ^
-
-File "game/script.rpy", line 118: expected menuitem
-    jump englishone
-    ^
+File "game/script.rpy", line 117: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "English"
+             ^
 
 File "game/script.rpy", line 140: expected statement.
     Menu:
@@ -19,16 +15,16 @@ File "game/script.rpy", line 266: expected statement.
         ^
 
 File "game/script.rpy", line 287: expected statement.
-    Jump continueart
+    Jump continueart:
                     ^
 
 File "game/script.rpy", line 289: expected statement.
-    Label notnormalclay
+    Label notnormalclay:
                        ^
 
 File "game/script.rpy", line 377: expected statement.
-    Jump lunch
+    Jump lunch:
               ^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Mon Mar  9 16:57:02 2026
+Mon Mar  9 17:05:31 2026

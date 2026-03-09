@@ -1,20 +1,16 @@
-2026-03-09 06:27:02 UTC
+2026-03-09 06:35:31 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.2.26010301
 
-Early init took 74 ms
-Loading error handling took 30 ms
-Loading script took 233 ms
-Loading save slot metadata took 26 ms
+Early init took 77 ms
+Loading error handling took 32 ms
+Loading script took 261 ms
+Loading save slot metadata took 31 ms
 Loading persistent took 0 ms
 
-File "game/script.rpy", line 76: end of line expected.
-    "???" "Hey, are you alright?"  - drawing/polaroid 1
-                                   ^
-
-File "game/script.rpy", line 118: expected menuitem
-    jump englishone
-    ^
+File "game/script.rpy", line 117: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "English"
+             ^
 
 File "game/script.rpy", line 140: expected statement.
     Menu:
@@ -25,20 +21,20 @@ File "game/script.rpy", line 266: expected statement.
         ^
 
 File "game/script.rpy", line 287: expected statement.
-    Jump continueart
+    Jump continueart:
                     ^
 
 File "game/script.rpy", line 289: expected statement.
-    Label notnormalclay
+    Label notnormalclay:
                        ^
 
 File "game/script.rpy", line 377: expected statement.
-    Jump lunch
+    Jump lunch:
               ^
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Interface start took 1221 ms
+Interface start took 480 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)

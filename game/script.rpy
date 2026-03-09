@@ -114,13 +114,13 @@ label start:
 
     menu:
 
-        "English"
+        "English":
             jump englishone
 
-        "Science"
+        "Science":
             jump scienceone
 
-        "Art"
+        "Art":
             jump artone
 
 label englishone:
@@ -137,11 +137,12 @@ label artone:
 
     "Christine" "Do you like art, Schwa?"
 
-    Menu:
-        "Yes"
+    menu:
+
+        "Yes":
             jump enjoyart
             
-        "No"
+        "No":
             jump noenjoyart
 
 label enjoyart: 
@@ -263,17 +264,18 @@ label continueartone:
 
     "Christine" "What do you think you’ll make Schwa?"
 
-    Menu:
-        "A dog"
+    menu:
+
+        "A dog":
             Jump normalclay
             
-        "My peenar"
+        "My peenar":
             Jump notnormalclay
 
-        "A bowl"
+        "A bowl":
             Jump normalclay
             
-        "A flower"
+        "A flower":
             Jump normalclay
 
 label normalclay:
@@ -284,7 +286,7 @@ label normalclay:
 
     "Dammit she’s right."
 
-    Jump continueart:
+    jump continueart
 
 Label notnormalclay:
 
@@ -297,6 +299,8 @@ Label notnormalclay:
     "Christine" "Oh yeah! That would’ve been funny but cause you explained it it’s not.
 
     "Dammit she’s right."
+
+    jump continueart
 
 label continueart:
 
@@ -337,10 +341,10 @@ label continueart:
     "Or maybe this is like undertale where I gotta do all the good stuff+"
 
         Menu:
-                "Take the phone"
+                "Take the phone":
                     jump phonetaken
 
-                "Don’t take the phone"
+                "Don’t take the phone":
                     jump phoneleft
 
 label phonetaken:
