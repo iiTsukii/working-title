@@ -73,7 +73,11 @@ label start:
 
     "I should really just go home now, school sucks anyway."
 
+    show christine sad
+
     "???" "Hey, are you alright?"
+
+    show christine sad close
 
     "Woah! Who’s this mega hot girl?"
 
@@ -81,12 +85,19 @@ label start:
 
     "Schwa" "Hey- Yeah, I mean it’s my first day of school and I’m already getting screwed over."
 
+    show christine sad
+
     "Christine" "That sucks, yeah Miss Peak is not the best."
+
+    show christine seduce
 
     "Christine" "I didn’t know we had a new student, let alone such a handsome one..."
 
+    show christine seduce close
+
     "Christine is super hot, and super into me. Score."
 
+    show christine default
 
     "Girl 1" "It’s the new guy!"
 
