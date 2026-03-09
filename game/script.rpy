@@ -267,16 +267,16 @@ label continueartone:
     menu:
 
         "A dog":
-            Jump normalclay
+            jump normalclay
             
         "My peenar":
-            Jump notnormalclay
+            jump notnormalclay
 
         "A bowl":
-            Jump normalclay
+            jump normalclay
             
         "A flower":
-            Jump normalclay
+            jump normalclay
 
 label normalclay:
 
