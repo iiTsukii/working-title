@@ -288,7 +288,7 @@ label normalclay:
 
     jump continueart
 
-Label notnormalclay:
+label notnormalclay:
 
     "Schwa" "Yeah I’m gonna make my Peenar"
 
@@ -378,7 +378,7 @@ label phoneleft:
 
     "Christine" "That's the bell, it's time for lunch!"
 
-    Jump lunch:
+    jump lunch:
 
 label lunch:
 

@@ -2,22 +2,6 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 270: expected statement.
-    Jump normalclay
-                   ^
-
-File "game/script.rpy", line 273: expected statement.
-    Jump notnormalclay
-                      ^
-
-File "game/script.rpy", line 276: expected statement.
-    Jump normalclay
-                   ^
-
-File "game/script.rpy", line 279: expected statement.
-    Jump normalclay
-                   ^
-
 File "game/script.rpy", line 291: expected statement.
     Label notnormalclay:
                        ^
@@ -27,4 +11,4 @@ File "game/script.rpy", line 381: expected statement.
               ^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Mon Mar  9 17:13:49 2026
+Mon Mar  9 17:16:35 2026
