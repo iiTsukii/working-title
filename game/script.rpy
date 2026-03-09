@@ -88,17 +88,17 @@ label start:
     "Christine is super hot, and super into me. Score."
 
 
-    Girl 1 "It’s the new guy!"
+    "Girl 1" "It’s the new guy!"
 
-    Girl 2 "He’s so hot!"
+    "Girl 2" "He’s so hot!"
 
-    Girl 3 "And nonchalant!"
+    "Girl 3" "And nonchalant!"
 
     "Schwa" "Ladies, Ladies, I’m very busy here with one special girl."
 
-    Girl 1 "Of course!"
+    "Girl 1" "Of course!"
 
-    Girl 2 "See you in class tiger, rawrr."
+    "Girl 2" "See you in class tiger, rawrr."
 
     "Normaly I would’ve jumped right at those girls, but right now my vision is occupied."
 
