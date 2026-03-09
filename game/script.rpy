@@ -129,7 +129,7 @@ label scienceone:
     #  anyone can start writing this
 label artone:
     #  anyone can continue writing this
-        "Christine" "Awesome, Art’s in the east building, I can show some stuff to you on the way too."
+    "Christine" "Awesome, Art’s in the east building, I can show some stuff to you on the way too."
 
     "Christine slips her small, soft hand over mine and leads me out of the hallway."
 
