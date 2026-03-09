@@ -91,7 +91,7 @@ label start:
 
     show christine seduce
 
-    "Christine" "I didn’t know we had a new student, let alone such a handsome one..."
+    "Christine" "But I didn’t know we had a new student, let alone such a handsome one..."
 
     show christine seduce close
 
@@ -113,13 +113,21 @@ label start:
 
     "Normaly I would’ve jumped right at those girls, but right now my vision is occupied."
 
+    show christine default open
+
     "Christine" "Hey if you don’t know where your classes are I could totally help you out!"
+
+    show christine default
 
     "She’s basically begging for me to ask for her number at this point."
 
     "Schwa" "That would be fantastic."
 
+    show christine seduce close
+
     "Christine bites her lip and glances up at me."
+
+    show christine seduce
 
     "Christine" "What class did you want to try out first?"
 
