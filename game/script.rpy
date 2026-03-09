@@ -316,7 +316,7 @@ label continueart:
 
     "Christine" "Oh I’m so glad you could tell, like I said I’m not great at art."
 
-    "Schwa" "Christine! That looks exactly like me. #end cutscene
+    "Schwa" "Christine! That looks exactly like me." #end cutscene
 
     "Christine" "You’re far too nice."
 
