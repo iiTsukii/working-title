@@ -2,8 +2,33 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 134: Indentation mismatch.
-    "Christine slips her small, soft hand over mine and leads me out of the hallway."
+File "game/script.rpy", line 76: end of line expected.
+    "???" "Hey, are you alright?"  - drawing/polaroid 1
+                                   ^
+
+File "game/script.rpy", line 118: expected menuitem
+    jump englishone
+    ^
+
+File "game/script.rpy", line 140: expected statement.
+    Menu:
+        ^
+
+File "game/script.rpy", line 266: expected statement.
+    Menu:
+        ^
+
+File "game/script.rpy", line 287: expected statement.
+    Jump continueart
+                    ^
+
+File "game/script.rpy", line 289: expected statement.
+    Label notnormalclay
+                       ^
+
+File "game/script.rpy", line 377: expected statement.
+    Jump lunch
+              ^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Mon Mar  9 16:56:06 2026
+Mon Mar  9 16:57:02 2026

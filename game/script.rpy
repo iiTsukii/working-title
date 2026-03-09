@@ -73,7 +73,7 @@ label start:
 
     "I should really just go home now, school sucks anyway."
 
-    "???" "Hey, are you alright?"  - drawing/polaroid 1
+    "???" "Hey, are you alright?"
 
     "Woah! Who’s this mega hot girl?"
 
@@ -115,13 +115,13 @@ label start:
     menu:
 
         "English"
-        jump englishone
+            jump englishone
 
         "Science"
-        jump scienceone
+            jump scienceone
 
         "Art"
-        jump artone
+            jump artone
 
 label englishone:
     #  anyone can start writing this
@@ -138,10 +138,10 @@ label artone:
     "Christine" "Do you like art, Schwa?"
 
     Menu:
-            "Yes"
+        "Yes"
             jump enjoyart
             
-            "No"
+        "No"
             jump noenjoyart
 
 label enjoyart: 
@@ -264,16 +264,16 @@ label continueartone:
     "Christine" "What do you think you’ll make Schwa?"
 
     Menu:
-            "A dog"
+        "A dog"
             Jump normalclay
             
-            "My peenar"
+        "My peenar"
             Jump notnormalclay
 
-            "A bowl"
+        "A bowl"
             Jump normalclay
             
-            "A flower"
+        "A flower"
             Jump normalclay
 
 label normalclay:
@@ -284,9 +284,9 @@ label normalclay:
 
     "Dammit she’s right."
 
-    Jump continueart
+    Jump continueart:
 
-Label notnormalclay
+Label notnormalclay:
 
     "Schwa" "Yeah I’m gonna make my Peenar"
 
@@ -338,10 +338,10 @@ label continueart:
 
         Menu:
                 "Take the phone"
-                jump phonetaken
+                    jump phonetaken
 
                 "Don’t take the phone"
-                jump phoneleft
+                    jump phoneleft
 
 label phonetaken:
 
@@ -374,7 +374,7 @@ label phoneleft:
 
     "Christine" "That's the bell, it's time for lunch!"
 
-    Jump lunch
+    Jump lunch:
 
 label lunch:
 
